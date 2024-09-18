@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"username": "comp2100@anu.edu.au",
+		"password": "comp2100"
+	},
+	{
+		"id": 2,
+		"username": "comp6442@anu.edu.au",
+		"password": "comp6442"
+	},
+	{
+		"id": 3,
+		"username": "a",
+		"password": "123456"
+	}
+]
