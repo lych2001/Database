@@ -2,16 +2,22 @@
 	{
 		"id": 1,
 		"username": "comp2100@anu.edu.au",
-		"password": "comp2100"
+		"password": "comp2100",
+		"signature": "Hello, My friends!",
+		"headerImageUrl": "http://192.168.192.7:8118/downloads/SmartCity/images/panda.jpeg"
 	},
 	{
 		"id": 2,
 		"username": "comp6442@anu.edu.au",
-		"password": "comp6442"
+		"password": "comp6442",
+		"signature": "Hola mis amigos!",
+		"headerImageUrl": "http://192.168.192.7:8118/downloads/SmartCity/images/panda.jpeg"
 	},
 	{
 		"id": 3,
-		"username": "a",
-		"password": "123456"
+		"username": "NULL",
+		"password": "123456",
+		"signature": "Bonjour mes amis!",
+		"headerImageUrl": "http://192.168.192.7:8118/downloads/SmartCity/images/panda.jpeg"
 	}
 ]
