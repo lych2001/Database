@@ -12,12 +12,5 @@
 		"password": "comp6442",
 		"signature": "Hola mis amigos!",
 		"headerImageUrl": "http://192.168.192.7:8118/downloads/SmartCity/images/panda.jpeg"
-	},
-	{
-		"id": 3,
-		"username": "NULL",
-		"password": "123456",
-		"signature": "Bonjour mes amis!",
-		"headerImageUrl": "http://192.168.192.7:8118/downloads/SmartCity/images/panda.jpeg"
 	}
 ]
